@@ -29,13 +29,13 @@ M.get = function()
     return {
         [""] = { fg = hl("Normal").fg },
 
-        easy = { fg = "#46c6c2" },
-        medium = { fg = "#fac31d" },
-        hard = { fg = "#f8615c" },
+        easy = { fg = "#bae6fd" },
+        medium = { fg = "#f2deba" },
+        hard = { fg = "#ff8e8e" },
 
-        easy_alt = { fg = "#294d35" },
-        medium_alt = { fg = "#5e4e25" },
-        hard_alt = { fg = "#5a302f" },
+        easy_alt = { fg = "#B5E8E0" },
+        medium_alt = { fg = "#e8d4b0" },
+        hard_alt = { fg = "#fca5a5" },
 
         ok = { fg = hl("DiagnosticOk").fg },
         info = { fg = hl("DiagnosticInfo").fg },
